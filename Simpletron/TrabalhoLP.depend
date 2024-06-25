@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653605864 source:c:\users\gutis\onedrive\Área de trabalho\unesp\3º semestre\linguagens de programação\trabalho semestral\trabalholp\main.cpp
+	<iostream>
+	"Simpletron.c"
+
+1661812236 c:\users\gutis\onedrive\Área de trabalho\unesp\3º semestre\linguagens de programação\trabalho semestral\trabalholp\simpletron.c
+	"Simpletron.h"
+
+1661812236 c:\users\gutis\onedrive\Área de trabalho\unesp\3º semestre\linguagens de programação\trabalho semestral\trabalholp\simpletron.h
+	<stdio.h>
+
